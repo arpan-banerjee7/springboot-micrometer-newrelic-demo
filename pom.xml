@@ -34,8 +34,9 @@
 			<optional>true</optional>
 		</dependency>
 		<dependency>
-			<groupId>io.micrometer</groupId>
+			<groupId>com.newrelic.telemetry</groupId>
 			<artifactId>micrometer-registry-new-relic</artifactId>
+			<version>0.7.0</version>
 		</dependency>
 		<dependency>
 			<groupId>io.micrometer</groupId>
